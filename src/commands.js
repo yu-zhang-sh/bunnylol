@@ -41,7 +41,7 @@ export const COMMANDS: {[CommandNames] : CommandType} = {
     wiki: {
         name: "Confluence",
         url: "https://thestubhub.atlassian.net/wiki/home",
-        searchurl: "https://thestubhub.atlassian.net/wiki/search?text=%s"
+        searchurl: "https://thestubhub.atlassian.net/wiki/search?text="
     },
     cal: {
         name: "Outlook Calendar",
@@ -50,17 +50,17 @@ export const COMMANDS: {[CommandNames] : CommandType} = {
     git: {
         name: "GitHub",
         url: "https://github.com/stubhub",
-        searchurl: "https://github.com/search?q=org%3Astubhub%20%s&type=code"
+        // searchurl: "https://github.com/search?q=org%3Astubhub%20&type=code&text="
     },
     onedrive: {
         name: "One Drive / SharePoint",
         url: "https://viagogocorp-my.sharepoint.com/",
-        searchurl: "https://viagogocorp-my.sharepoint.com/query?q=%s&searchScope=all"
+        searchurl: "https://viagogocorp-my.sharepoint.com/query?q="
     },
     jira: {
         name: "Jira",
         url: "https://thestubhub.atlassian.net/jira/your-work",
-        searchurl: "https://thestubhub.atlassian.net/secure/QuickSearch.jspa?searchString=%s"
+        searchurl: "https://thestubhub.atlassian.net/secure/QuickSearch.jspa?searchString="
     },
     gpt: {
         name: "ChatGPT",
@@ -73,7 +73,7 @@ export const COMMANDS: {[CommandNames] : CommandType} = {
     t: {
         name: "Trello",
         url: "https://trello.com/",
-        searchurl: "https://trello.com/search?q=%s"
+        searchurl: "https://trello.com/search?q="
     },
     cxeb: {
         name: "Trello - CX - Event - Backlog",
