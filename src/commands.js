@@ -50,7 +50,7 @@ export const COMMANDS: {[CommandNames] : CommandType} = {
     git: {
         name: "GitHub",
         url: "https://github.com/stubhub",
-        // searchurl: "https://github.com/search?q=org%3Astubhub%20&type=code&text="
+        searchurl: "https://github.com/search?q=org%3Astubhub+"
     },
     onedrive: {
         name: "One Drive / SharePoint",
