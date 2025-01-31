@@ -8,37 +8,20 @@ A note: a lot of these commands are customized for me. It is probably most benef
 
 ## Example Commands
 
-Command | Name | URL
---- | --- | ---
-fb | Facebook | [https://facebook.com/](https://facebook.com/)
-m | Messenger Desktop App | [messenger://](messenger://)
-mw | Messenger Web | [https://www.messenger.com/](https://www.messenger.com/)
-wa | WhatsApp Desktop App | [whatsapp://](whatsapp://)
-waw | WhatsApp Web | [https://web.whatsapp.com/](https://web.whatsapp.com/)
-gm | Gmail | [https://mail.google.com/mail/u/0](https://mail.google.com/mail/u/0)
-gd | Google Drive | [https://drive.google.com/drive/u/0](https://drive.google.com/drive/u/0)
-sis | UVA SIS | [https://sisuva.admin.virginia.edu/psc/ihprd/UVSS/SA/s/WEBLIB_HCX_GN.H_SPRINGBOARD.FieldFormula.IScript_Main](https://sisuva.admin.virginia.edu/psc/ihprd/UVSS/SA/s/WEBLIB_HCX_GN.H_SPRINGBOARD.FieldFormula.IScript_Main)
-col | UVA Collab | [https://collab.its.virginia.edu/portal](https://collab.its.virginia.edu/portal)
-yt | YouTube | [https://youtube.com/](https://youtube.com/)
-gh | GitHub | [https://github.com/](https://github.com/)
-r | Reddit | [https://reddit.com/](https://reddit.com/)
-l | Linkedin | [https://linkedin.com/](https://linkedin.com/)
-ig | Instagram | [https://instagram.com/](https://instagram.com/)
-tw | Twitter | [https://twitter.com/](https://twitter.com/)
-g | Google | [https://google.com/](https://google.com/)
-wp | Washington Post | [https://www.washingtonpost.com/regional/](https://www.washingtonpost.com/regional/)
-wsj | Wall Street Journal | [https://www.wsj.com/](https://www.wsj.com/)
-cnn | CNN | [https://www.cnn.com/](https://www.cnn.com/)
-n | Netflix | [https://netflix.com/](https://netflix.com/)
-h | Hulu | [https://hulu.com/](https://hulu.com/)
-pv | Amazon Prime Video | [https://www.amazon.com/Amazon-Video/b/?&node=2858778011&ref=dvm_MLP_ROWNA_US_1](https://www.amazon.com/Amazon-Video/b/?&node=2858778011&ref=dvm_MLP_ROWNA_US_1)
-p | Piazza | [https://piazza.com/class](https://piazza.com/class)
-vs | VS Code | [vscode://](vscode://)
-hs | Hubspot | [https://app.hubspot.com/live-messages/](https://app.hubspot.com/live-messages/)
-$ | Robinhood | [https://robinhood.com/](https://robinhood.com/)
-cal | Google Calendar | [https://calendar.google.com/calendar/r](https://calendar.google.com/calendar/r)
-covid | UVA COVID-19 Tracker | [https://returntogrounds.virginia.edu/covid-tracker](https://returntogrounds.virginia.edu/covid-tracker)
-DEFAULT | Default - Google Search | [https://google.com/](https://google.com/)
+| Command | Name | URL |
+| --- | --- | --- |
+| wiki | Confluence | [https://thestubhub.atlassian.net/wiki/home](https://thestubhub.atlassian.net/wiki/home) |
+| cal | Outlook Calendar | [https://outlook.office.com/calendar/view/workweek/](https://outlook.office.com/calendar/view/workweek/) |
+| git | GitHub | [https://github.com/stubhub](https://github.com/stubhub) |
+| onedrive | One Drive / SharePoint | [https://viagogocorp-my.sharepoint.com/](https://viagogocorp-my.sharepoint.com/) |
+| jira | Jira | [https://thestubhub.atlassian.net/jira/your-work](https://thestubhub.atlassian.net/jira/your-work) |
+| gpt | ChatGPT | [https://chatgpt.com/](https://chatgpt.com/) |
+| atls | Atlassian Homepage | [https://home.atlassian.com/](https://home.atlassian.com/) |
+| t | Trello | [https://trello.com/](https://trello.com/) |
+| cxeb | Trello - CX - Event - Backlog | [https://trello.com/b/axGYdiNz/cx-event-backlog](https://trello.com/b/axGYdiNz/cx-event-backlog) |
+| cxep | CX - Event - Past Results | [https://trello.com/b/9abgFKKN/cx-event-past-results](https://trello.com/b/9abgFKKN/cx-event-past-results) |
+| cxer | CX - Event - Retro | [https://trello.com/b/jFLAJwL3/cx-event-retro](https://trello.com/b/jFLAJwL3/cx-event-retro) |
+
 
 ## Setup
 
@@ -46,7 +29,7 @@ DEFAULT | Default - Google Search | [https://google.com/](https://google.com/)
 
 2. Click `Manage Search Engines`.
 
-3. Add a new search engine with the URL being `http://rithik.me/bunnylol?search=%s`. Of course, you should change the `rithik.me` part to your own domain.
+3. Add a new search engine with the URL being `https://yu-zhang-sh.github.io/bunnylol/?search=%s`. 
 
 4. Make this the default search engine.
 
