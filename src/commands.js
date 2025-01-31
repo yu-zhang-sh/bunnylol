@@ -86,7 +86,7 @@ export const COMMANDS: {[CommandNames] : CommandType} = {
     cxer: {
         name: "CX - Event - Retro",
         url: "https://trello.com/b/jFLAJwL3/cx-event-retro"
-    }
+    },
     DEFAULT: {
         name: "Default - Google Search",
         url: "https://google.com/",
